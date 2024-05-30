@@ -1,3 +1,3 @@
 # Bracket Software
 
-An ally in the clouds 😶‍🌫️🌥️
+Let's build something _awesome_ ✨
